@@ -1,13 +1,19 @@
-**FINALLY**
+---
+title: The Website Is Finally Up!
+date: 2026-Aug-10
+description: The BlebbyBoi website is finally live!
+---
 
-The website is up!
+# The Website Is Finally Up!
 
-I will add content later, so be ready!
+The website is finally up!
+
+I will add content later, be ready!
 
 And uh...
 
 **bookmark this page**
 
-because why not. :)
+because why not. 😭
 
-So yeah, posts will come out when they're ready!
+So yeah, posts will come out when they're ready.

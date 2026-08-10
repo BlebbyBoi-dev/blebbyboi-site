@@ -41,3 +41,18 @@ body {
 main {
     margin: 30px, 50px;
 }
+
+.news-post {
+    background: #999999;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+}
+
+.news-post h1 {
+    margin-top: 0;
+}
+
+.news-post p {
+    line-height: 1.6;
+}
